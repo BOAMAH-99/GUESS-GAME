@@ -8,5 +8,5 @@
 
 # https://github.com/BOAMAH-99/GUESS-GAME.git
 
-# project URl: https://roadmap.sh/projects/number-guessing-game
+# project URL: https://roadmap.sh/projects/number-guessing-game
 
